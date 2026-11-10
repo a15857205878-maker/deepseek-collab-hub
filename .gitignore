@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+*.log
+*.zip
+.env
+.env.*
+work/
+data/
+projects/
+node_modules/
+dashboard-config.json
+state.json
+result.json
+events.jsonl
+request.txt

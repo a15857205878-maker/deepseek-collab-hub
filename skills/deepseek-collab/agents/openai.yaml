@@ -1,0 +1,4 @@
+interface:
+  display_name: "DeepSeek 协作中心"
+  short_description: "统一查看跨项目任务，默认 DeepSeek 做前端，Codex 做后端和审查"
+  default_prompt: "使用 $deepseek-collab 打开统一协作板，先查看当前项目与历史记录，再按我的要求安排协作。"

@@ -1,0 +1,24 @@
+{
+  "name": "deepseek-collab-hub",
+  "version": "0.3.1",
+  "description": "Local unified DeepSeek collaboration center.",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "DeepSeek 协作中心",
+    "shortDescription": "跨项目任务记录、统一协作板与双模型分工",
+    "longDescription": "本机试用版：集中归档协作记录，按项目搜索与查看，回原工作区续接。DeepSeek 默认前端，Codex 负责后端和审查。",
+    "developerName": "Personal tools",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "打开统一协作板",
+      "查找以前的 DeepSeek 协作任务",
+      "与 DeepSeek 协作实现当前项目"
+    ],
+    "logo": "./assets/icon.svg",
+    "composerIcon": "./assets/icon.svg"
+  }
+}
